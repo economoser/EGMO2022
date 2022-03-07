@@ -17,7 +17,7 @@ The second part of the paper is based on the household survey dataset PME. For a
 
 ###### Part 1
 
-- \_MASTER\_GIDDP\_BRA\_Part\_1.do: Master file for Part 1 of Global Income Dynamics Database Project: Brazil.
+- **[_MASTER_GIDDP_BRA_Part_1.do](_MASTER_GIDDP_BRA_Part_1.do)**:: Master file for Part 1 of Global Income Dynamics Database Project: Brazil.
 
 - 0\_Initialize.do: Initializes program by creating global macros.
 
