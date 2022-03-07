@@ -59,7 +59,7 @@ The second part of the paper is based on the household survey dataset PME. For a
 
 - **[11_createpanel.do](11_createpanel.do)**: Clean the raw PME data and create a panel at the level of survey, using Data Zoom routines created by PUC-Rio with support from FINEP.
 
-- **[12_repRAIS.do](X12_repRAIS.doXX)**: Creates and compute statistics of the formal sector replicating RAIS based on PME microdata.
+- **[12_repRAIS.do](12_repRAIS.do)**: Creates and compute statistics of the formal sector replicating RAIS based on PME microdata.
 
 - **[13_computepanel.do](13_computepanel.do)**: Creates and computes statistics at the year-individual level based on PME microdata.
 
