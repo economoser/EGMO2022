@@ -19,55 +19,55 @@ The second part of the paper is based on the household survey dataset PME. For a
 
 - **[_MASTER_GIDDP_BRA_Part_1.do](_MASTER_GIDDP_BRA_Part_1.do)**: Master file for Part 1 of Global Income Dynamics Database Project: Brazil.
 
-- 0_Initialize.do: Initializes program by creating global macros.
+- **[0_Initialize.do](0_Initialize.do)**: Initializes program by creating global macros.
 
-- 1_Gen_Base_Sample.do: Generate base sample.
+- **[1_Gen_Base_Sample.do](1_Gen_Base_Sample.do)**: Generate base sample.
 
-- 2_DescriptiveStats.do: Compute descriptive statistics.
+- **[2_DescriptiveStats.do](2_DescriptiveStats.do)**: Compute descriptive statistics.
 
-- 3_Inequality.do: Compute statistics pertaining to inequality.
+- **[3_Inequality.do](3_Inequality.do)**: Compute statistics pertaining to inequality.
 
-- 4_Volatility.do: Compute statistics pertaining to volatility.
+- **[4_Volatility.do](4_Volatility.do)**: Compute statistics pertaining to volatility.
 
-- 5_Mobility.do: Compute statistics pertaining to mobility.
+- **[5_Mobility.do](5_Mobility.do)**: Compute statistics pertaining to mobility.
 
-- 6_Insheeting_datasets.do: Generate data files to be uploaded to GIDDP website.
+- **[6_Insheeting_datasets.do](6_Insheeting_datasets.do)**: Generate data files to be uploaded to GIDDP website.
 
-- 7_Paper_Figs.do: Produce figures to be included in paper.
+- **[7_Paper_Figs.do](7_Paper_Figs.do)**: Produce figures to be included in paper.
 
-- 8_background_figures.do: Produce figures to be included in paper.
+- **[8_background_figures.do](8_background_figures.do)**: Produce figures to be included in paper.
 
-- 9_other_stats.do: Produce figures specific to Part B (formal vs. informal earnings inequality and dynamics) of the GIDP project for Brazil.
+- **[9_other_stats.do](9_other_stats.do)**: Produce figures specific to Part B (formal vs. informal earnings inequality and dynamics) of the GIDP project for Brazil.
 
-- myplots.do: Contains user-written plots.
+- **[myplots.do](myplots.do)**: Contains user-written plots.
 
-- myprogs.do: Contains user-written programs.
+- **[myprogs.do](myprogs.do)**: Contains user-written programs.
 
-- comma_separator.m: Adds a commpa separator between thousands.
+- **[comma_separator.m](comma_separator.m)**: Adds a commpa separator between thousands.
 
-- csv2mat_block.m: Reshapes comma-separated values file into block data structure.
+- **[csv2mat_block.m](csv2mat_block.m)**: Reshapes comma-separated values file into block data structure.
 
-- csv2mat_numeric.m: Reshapes comma-separated values file into numeric data structure.
+- **[csv2mat_numeric.m](csv2mat_numeric.m)**: Reshapes comma-separated values file into numeric data structure.
 
-- Table_OB.m: Outsheet table with Oaxaca-Blinder decomposition.
+- **[Table_OB.m](Table_OB.m)**: Outsheet table with Oaxaca-Blinder decomposition.
 
 ###### Part 2
 
-- _MASTER_GIDDP_BRA_Part_2.do: Master file for Part 2 of Global Income Dynamics Database Project: Brazil.
+- **[_MASTER_GIDDP_BRA_Part_2.do](_MASTER_GIDDP_BRA_Part_2.do)**: Master file for Part 2 of Global Income Dynamics Database Project: Brazil.
 
-- 10_initialize_PME.do: Initializes program by creating global macros.
+- **[10_initialize_PME.do](10_initialize_PME.do)**: Initializes program by creating global macros.
 
-- 11_createpanel.do: Clean the raw PME data and create a panel at the level of survey, using Data Zoom routines created by PUC-Rio with support from FINEP.
+- **[11_createpanel.do](11_createpanel.do)**: Clean the raw PME data and create a panel at the level of survey, using Data Zoom routines created by PUC-Rio with support from FINEP.
 
-- 12_repRAIS.do: Creates and compute statistics of the formal sector replicating RAIS based on PME microdata.
+- **[12_repRAIS.do](X12_repRAIS.doXX)**: Creates and compute statistics of the formal sector replicating RAIS based on PME microdata.
 
-- 13_computepanel.do: Creates and computes statistics at the year-individual level based on PME microdata.
+- **[13_computepanel.do](13_computepanel.do)**: Creates and computes statistics at the year-individual level based on PME microdata.
 
-- 14_formal_informal.do: Investigates formal-informal transitions in Brazil based on PME microdata.
+- **[14_formal_informal.do](14_formal_informal.do)**: Investigates formal-informal transitions in Brazil based on PME microdata.
 
-- 15_shiftshare.do: Do a shift-share analysis with Brazil sectoral transition data based on PME microdata.
+- **[15_shiftshare.do](15_shiftshare.do)**: Do a shift-share analysis with Brazil sectoral transition data based on PME microdata.
 
-- progs_figs.do: Contains user-written programs for 13_computepanel.do.
+- **[progs_figs.do](progs_figs.do)**: Contains user-written programs for 13_computepanel.do.
 
 
 ## Acknowledgements
