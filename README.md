@@ -69,6 +69,8 @@ The second part of the paper is based on the household survey dataset PME. For a
 
 - **[progs_figs.do](progs_figs.do)**: Contains user-written programs for 13_computepanel.do.
 
+- **[progs_repRAIS.do](progs_repRAIS.do)**: Contains user-written programs for 12_repRAIS.do.
+
 
 ## Acknowledgements
 
