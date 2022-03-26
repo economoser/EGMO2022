@@ -13,7 +13,7 @@ function [commaFormattedString] = comma_separator(value) % Takes a number and in
 %              of Informality: The Case of Brazil," Quantitative Economics,
 %              2022.
 %
-% TIME STAMP:  March 5, 2022.
+% TIME STAMP:  March 26, 2022.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 

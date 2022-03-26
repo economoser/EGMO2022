@@ -1,6 +1,5 @@
 ********************************************************************************
-* DESCRIPTION: Produce figures specific to Part B (formal vs. informal earnings
-*              inequality and dynamics) of the GIDP project for Brazil.
+* DESCRIPTION: Creates graphs for background section of paper.
 *
 * AUTHORS:     Niklas Engbom (New York University),
 *			   Gustavo Gonzaga (PUC-Rio),
@@ -12,18 +11,7 @@
 *              of Informality: The Case of Brazil," Quantitative Economics,
 *              2022.
 *
-* TIME STAMP:  March 5, 2022.
-********************************************************************************
-
-********************************************************************************
-* Creates graphs for background section of GIDP-BRA
-*
-* AUTHORS:     Niklas Engbom (NYU),
-*			   Gustavo Gonzaga (PUC-Rio),
-*			   Christian Moser (Columbia and FRB Minneapolis),
-*			   Roberta Olivieri (Cornell).
-*
-* TIME STAMP:  Januar 12, 2022.
+* TIME STAMP:  March 26, 2022.
 ********************************************************************************
 
 

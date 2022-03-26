@@ -11,7 +11,7 @@
 *              of Informality: The Case of Brazil," Quantitative Economics,
 *              2022.
 *
-* TIME STAMP:  March 5, 2022.
+* TIME STAMP:  March 26, 2022.
 ********************************************************************************
 
 capture program drop bymySho bymyTranMat bymyKDN bymyKDNmale bymyCNT bymyPCT bymysum bymysum_detail ///

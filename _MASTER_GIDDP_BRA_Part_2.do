@@ -12,7 +12,7 @@
 *              of Informality: The Case of Brazil," Quantitative Economics,
 *              2022.
 *
-* TIME STAMP:  March 5, 2022.
+* TIME STAMP:  March 26, 2022.
 ********************************************************************************
 
 
@@ -109,15 +109,15 @@ if ${GIDDP_12} do "${DO_DIR}/12_repRAIS.do"
 
 disp _newline(3)
 disp "*** SECTION 13: Computes statistics at the Year-Id level"
-if ${GIDDP_12} do "${DO_DIR}/13_computepanel.do"
+if ${GIDDP_13} do "${DO_DIR}/13_computepanel.do"
 
 disp _newline(3)
 disp "*** SECTION 14: Formal-Informal transitions"
-if ${GIDDP_12} do "${DO_DIR}/14_formal_informal.do"
+if ${GIDDP_14} do "${DO_DIR}/14_formal_informal.do"
 
 disp _newline(3)
 disp "*** SECTION 15: Shift-Share Analysis"
-if ${GIDDP_12} do "${DO_DIR}/15_shift_share.do"
+if ${GIDDP_15} do "${DO_DIR}/15_shiftshare.do"
 
 
 ********************************************************************************
